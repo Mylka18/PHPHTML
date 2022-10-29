@@ -1,6 +1,5 @@
 <?php
-echo "Num1=10 \n";
-echo "Num2=20 \n";
-echo "La suma es: ";
-echo "30";
+$num1 = 10;
+$num2 = 15;
+echo nl2br("La suma es: \n".($num1+$num2))
 ?>
