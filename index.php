@@ -8,6 +8,6 @@
 </head>
 <body>
     <h2>PHP</h2>
-    <?php echo "Como estas?"; ?>
+    <?php echo "¿Como estas?"; ?>
 </body>
 </html>
